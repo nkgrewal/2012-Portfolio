@@ -165,9 +165,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee75C1D8', e
 
 /* INTRO SLIDE */
 #intro{ width:80%; margin:155px 10% 0 10%; text-align:left;}
-#intro h2{ text-align:center; font-size:4.3em; color:#c0e0e9; }
+#intro h2{ font-size:4.3em; color:#c0e0e9; }
 #intro h3 { font:1.8em/1.3em 'Oxygen'; color:#666; margin:1em 0 0 0; }
-.sideNote{ width:70%; margin:55px 0 0; padding:1.4em 2em; background-color:#c6d3c0;
+.sideNote{ width:80%; margin-top:40px; padding:1.4em 2em; background-color:#c6d3c0;
 background: -moz-linear-gradient(top,  rgba(176,195,167,0.3) 0%, rgba(176,195,167,0.3) 100%); /* FF3.6+ */
 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(176,195,167,0.3)), color-stop(100%,rgba(176,195,167,0.3))); /* Chrome,Safari4+ */
 background: -webkit-linear-gradient(top,  rgba(176,195,167,0.3) 0%,rgba(176,195,167,0.3) 100%); /* Chrome10+,Safari5.1+ */
